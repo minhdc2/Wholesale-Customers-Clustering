@@ -1,4 +1,3 @@
-Data source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 <h2>Purpose</h2>
 
